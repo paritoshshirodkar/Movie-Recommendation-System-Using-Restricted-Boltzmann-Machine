@@ -1,8 +1,8 @@
 # Movie-Recommendation-System-Using-Restricted-Boltzmann-Machine
 
-Successfully working rbm code and flask application
+Successfully working rbm code and flask application.
 
-To run the project download all te necessary libraries used in the python code.
+To run the project download all the necessary libraries used in the python code.
 
 Run the rbm.py file present in the pytorch folder.
 
@@ -16,4 +16,4 @@ This will open the web application (developed with Flask framework).
 
 Enter the user id and the number of movie recommendations you want to display for that user.
 
-For the sake of simplicity enter the user id and number of movie recommendation as any number in the range of 1 to 100.
+For the sake of simplicity enter the user id and number of movie recommendation as any integer number in the range of 1 to 100.
